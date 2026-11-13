@@ -11,7 +11,7 @@ keywords: [inicio, portfolio]
 
 <main class="page-content" aria-label="Content">
     <div class="m-5 p-5 d-flex flex-column align-items-center">
-        <img class="d-block w-75" src="{{ '/assets/images/sua-imagem.png' | relative_url }}" alt="televisões">
+        <img class="d-block w-75" src="{{ '/images/televisions.png' | relative_url }}" alt="televisões">
         <p class="fw-semibold"><i>Em construção.</i></p>
     </div>
 </main>
